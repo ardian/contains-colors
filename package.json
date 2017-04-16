@@ -1,0 +1,24 @@
+{
+  "name": "has-colors",
+  "version": "1.0.0",
+  "description": "Check if any colors are mentioned (red, blue, green, etc)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardian/contains-colors.git"
+  },
+  "keywords": [
+    "colors",
+    "words",
+    "mentioned"
+  ],
+  "author": "Ardian Haxha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ardian/contains-colors/issues"
+  },
+  "homepage": "https://github.com/ardian/contains-colors#readme"
+}
